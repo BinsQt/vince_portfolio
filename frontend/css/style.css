@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    background-color: #272626;
+}
+
+.navbar {
+    background-color: aqua;
+    width: 100%;
+    height: 75px;
+}
