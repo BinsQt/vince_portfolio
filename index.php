@@ -8,13 +8,10 @@
 </head>
 <body>
 
-    <div class="navbar">
-
+    <div class="nav-container">
         <?php 
         include('frontend/view/nav.php');
         ?>
-
-
     </div>
     <div class="main">
         <?php 
