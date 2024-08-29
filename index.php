@@ -8,21 +8,7 @@
 </head>
 <body>
 
-    <div class="nav-container">
-        <?php 
-        include('frontend/view/nav.php');
-        ?>
-    </div>
-    <div class="main">
-        <?php 
-        include('frontend/view/main.php');
-        ?>
-    </div>
-    <div class="footer">
-        <?php 
-        include('frontend/view/about.php');
-        ?>
-    </div>
+    <h1>Hello </h1>
 
 
 </body>
